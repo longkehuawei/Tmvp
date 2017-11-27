@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/menu_update" android:id="@id/update" android:title="@string/menu_update" />
+    <item android:icon="@drawable/menu_system_notice" android:id="@id/system_notice" android:title="@string/menu_system_notice" />
+    <item android:icon="@drawable/menu_lucky_active" android:id="@id/new_act" android:title="@string/menu_new_act" />
+    <item android:icon="@drawable/menu_change_account" android:id="@id/change_account" android:title="@string/menu_change_account" />
+    <item android:icon="@drawable/menu_setting" android:id="@id/setting" android:title="@string/menu_setting" />
+    <item android:icon="@drawable/menu_exit" android:id="@id/exit" android:title="@string/menu_exit" />
+</menu>

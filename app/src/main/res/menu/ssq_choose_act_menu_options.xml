@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/style" android:title="购彩记录" />
+    <item android:id="@id/setting" android:title="设置" />
+    <item android:id="@id/correct" android:title="开奖信息" />
+</menu>
